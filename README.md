@@ -1,5 +1,7 @@
 # NetherrackParity
-1.14+ Netherrack Parity Texture Packs for Better Bitrate in Speedrunning
+1.14+ Netherrack Parity Texture Packs for Better Bitrate in Speedrunning!
+
+Get them [here](https://github.com/acewhite1010/NetherrackParity/releases/latest)
 
 ## Q&A
 How to use it?
