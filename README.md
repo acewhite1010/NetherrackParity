@@ -16,3 +16,6 @@ Is this legal for speedrunning?
 
 Why does it not work?
 - Make sure you're having the ZIP file in the correct folder. Otherwise, send me a DM via Discord (acewhite#4025) so I can troubleshoot and update.
+
+Hmm... I don't see some versions I want...
+- There's a lot of them in the releases page, click "Show all assets" (or something similar to those lines) and it should show!
